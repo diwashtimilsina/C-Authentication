@@ -154,7 +154,7 @@ default:
 pass2=obj.changepass();
 break;
 }
-//std::cout<<"Enter 'y' to exit";
+std::cout<<"Enter 'y' to exit";
 }
 
 
